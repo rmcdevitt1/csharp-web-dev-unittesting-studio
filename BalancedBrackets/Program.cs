@@ -6,7 +6,7 @@ namespace BalancedBracketsNS
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello There World!");
+            Console.WriteLine("Hello World!");
         }
     }
 }
